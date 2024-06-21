@@ -19,7 +19,7 @@ async function canAnimation () {
     isAnime = true;
     const svgElement = document.getElementById('soda-can');
     const initialVolume = 9000000; // Initial volume of the soda can
-    const maxHeight = 700; // Maximum height for animation
+    const maxHeight = 900; // Maximum height for animation
     const minHeight = 150// Minimum height for animation
     const animationDuration = 2000; // Animation duration in milliseconds (2 seconds)
     const stepSize = 0.5; // Step size for height adjustment
